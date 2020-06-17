@@ -1,0 +1,163 @@
+{
+    "Name": {
+        "english": "Sonali Naik",
+        "marathi": "सोनाली नाईक"
+    },
+    "JobProfile": {
+        "english": "Network Engineer",
+        "marathi": "Network Engineer"
+    },
+    "Facebook": null,
+    "Instagram": null,
+    "Email": null,
+    "CompanyLink": "https://www.tatacommunications.com/",
+    "CompanyExperience": "2 years",
+    "CompanyName": {
+        "english": "Tata Communications Pvt Ltd.",
+        "marathi": "टाटा कम्युनिकेशन्स प्रायव्हेट लिमिटेड"
+    },
+    "Hobby": {
+        "english": null,
+        "marathi": null
+    },
+    "PersonalInformation": {
+        "FullName": {
+            "english": "Miss Sonali Vilas Naik",
+            "marathi": null
+        },
+        "DateOfBirth": {
+            "english": "02-09-1996",
+            "marathi": "०२/०९/१९९६"
+        },
+        "BirthPlace": {
+            "english": "Inamgaon,Tal -Shirur, Pune",
+            "marathi": "इनामगाव, ता-शिरूर, पुणे"
+        },
+        "BirthTime": {
+            "english": "11.45 PM",
+            "marathi": "11.45 रात्री"
+        },
+        "Color": {
+            "english": "Fair",
+            "marathi": "गोरा"
+        },
+        "Height": {
+            "english": "5.4 Feet",
+            "marathi": "5.4 फूट"
+        },
+        "BloodGroup": {
+            "english": "B+",
+            "marathi": "बी +"
+        },
+        "Gotra": {
+            "english": null,
+            "marathi": null
+        },
+        "Gan": {
+            "english": "Dev",
+            "marathi": "देव"
+        },
+        "Devak": {
+            "english": "Sunflower",
+            "marathi": "सूर्यफूल"
+        },
+        "Ras": {
+            "english": "Cancer",
+            "marathi": "कर्क"
+        },
+        "Kuldaivat": {
+            "english": "Khandoba (Jejuri)",
+            "marathi": "खंडोबा (जेजुरी)"
+        },
+        "RasName": {
+            "english": "Hema",
+            "marathi": "हेमा"
+        },
+        "Caste": {
+            "english": "Hindu-Maratha",
+            "marathi": "हिंदू-मराठा"
+        }
+    },
+    "Qualification": {
+        "Education": {
+            "english": "B.E. (E&TC)",
+            "marathi": "B.E. (E&TC)"
+        },
+        "Job": {
+            "english": "Network Engineer at Tata Communications Pvt Ltd.",
+            "marathi": "Network Engineer at Tata Communications Pvt Ltd."
+        },
+        "Salary": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "FamilyInformation": {
+        "GrandfatherName": {
+            "english": null,
+            "marathi": null
+        },
+        "GrandmotherName": {
+            "english": null,
+            "marathi": null
+        },
+        "FatherName": {
+            "english": "Shri. Vilas Dadasaheb Naik",
+            "marathi": "श्री. विलास दादासाहेब नाईक"
+        },
+        "MotherName": {
+            "english": "Mrs. Jayshree Vilas Naik",
+            "marathi": "श्रीमती जयश्री विलास नाईक"
+        },
+        "SisterName": {
+            "english": null,
+            "marathi": null
+        },
+        "BrotherName": {
+            "english": "Mr. Sachin Vilas Naik , Mr. Rahul Vilas Naik",
+            "marathi": "चि. सचिन विलास नाईक, चि. राहुल विलास नाईक"
+        },
+        "Uncle": {
+            "english": "Mr. Sanjay Dadasaheb Naik",
+            "marathi": "श्री.संजय दादासाहेब नाईक"
+        },
+        "Mama": {
+            "english": "Mr. Ravindra Baburao Ghadage, Mr. Sandip Baburao Ghadage",
+            "marathi": "श्री. रविंद्र बाबुराव घाडगे, श्री. संदीप बाबुराव घाडगे"
+        },
+        "Aatya": {
+            "english": "Dalvi (Hanga)",
+            "marathi": "दळवी (हांगा)"
+        },
+        "Mavshi": {
+            "english": "Pawar (Chinchani)",
+            "marathi": "पवार (चिंचणी)"
+        },
+        "Relatives": {
+            "english": "Shitole, Jadhav, Dalvi, Pawar, Ghadage, Sonwane, Dhumal, Nagawade, Walse, Kshirsagar, Jagtap, Kale",
+            "marathi": "शितोळे, जाधव, दळवी, पवार, घाडगे, सोनवणे, धुमाळ, नागावडे, वळसे, क्षीरसागर, जगताप, काळे"
+        }
+    },
+    "ContactMe": {
+        "EmailId": {
+            "english": null,
+            "marathi": null
+        },
+        "MobileNo": {
+            "english": "8600914433",
+            "marathi": "८६००९१४४३३"
+        }
+    },
+    "Photos": {
+        "Kundali":null,
+        "ProfilePhotoName": "assets/Profile.jpg",
+        "GalleryPhoto": {
+            "Photo1": "",
+            "Photo2": "",
+            "Photo3": "",
+            "Photo4": "",
+            "Photo5": "",
+            "Photo6": ""
+        }
+    }
+}
